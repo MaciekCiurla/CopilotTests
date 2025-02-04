@@ -1,0 +1,10 @@
+The project in the MaciekCiurla/CopilotTests repository is focused on deploying Palo Alto Networks Software Firewalls on the Azure Cloud using Terraform. The repository contains various modules for configuring virtual networks, subnets, network security groups, storage accounts, and more to provide control and protection for applications running on Azure.
+
+Key points:
+
+The project is based on the Reference Architecture Guide for Azure.
+The repository includes standalone, reusable Terraform modules and examples demonstrating their use.
+There is a focus on security, compatibility with Terraform, and semantic versioning.
+The documentation includes deployment steps, security considerations, versioning details, and contribution guidelines.
+Additional examples include deploying VM-Series firewalls with autoscaling and centralized architectures.
+For more details, you can view the README file and example documentation.
